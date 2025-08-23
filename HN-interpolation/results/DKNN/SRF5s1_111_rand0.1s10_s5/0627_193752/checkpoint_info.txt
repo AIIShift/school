@@ -1,0 +1,1 @@
+-----------model_info-------------model name:  dknntrain info:  0627_193752min loss:  0.8736115296681722best_epoch:  297best_rmse_inverse:  6.310500833206896best inverse MAE/RMSE/MAPE: 4.85/6.31/12.21%spend time: 6.066666666666666 minutesepoch: 297
